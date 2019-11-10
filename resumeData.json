@@ -1,0 +1,216 @@
+{
+  "main": {
+    "name":"Anish Kumar Jha",
+    "occupation":"Fullstack Developer",
+    "description":"I love creative coding because I do both coding & designing. making beautiful art with code is very satisfying to me",
+    "image":"profile.jpg",
+    "bio": "I have completed my B.Tech in Computer Science and Engineering and has close to 1.8 years of experience in development in IOT domain. I am experienced in Java, Spring boot microservices, Nodejs, Jasper Reports, Angular 5, ReactJs. I have good knowledge of Python, Javascript, .NET and familiar with Docker, Kubernetes etc. I love to code and learn new technology. I have a developer profile on Hackerearth, Hackerrank, Geeksforgeeks.",  
+    "email": "anishjha93@gmail.com",
+    "phone": "+91 9038678744",
+    "address":{
+      "street":"104/2c Srk Arcade, Taverekere Main Road",
+      "city":"Bangalore",
+      "state":"Karnataka",
+      "zip": "560029"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://anishjha93.github.io",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/anishjha93",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/condingry",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/anishjha93/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/anishjha93",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com/anishjha93",
+        "className":"fa fa-skype"
+      },
+      {
+        "name":"hackerearth",
+        "url":"https://www.hackerearth.com/@anishjha93",
+        "logo":"hackerearth_logo.png"
+      },
+      {
+        "name":"hackerrank",
+        "url":"https://www.hackerrank.com/anishjha93",
+        "logo":"hackerrank_logo.png"
+      }
+    ]
+  },
+  "favouritetech":{
+    "about_tech":"I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over",
+    "favouritetech":[
+      {
+        "name":"Java",
+        "logo":"java_logo.jpg",
+        "description":"Java was my first programming language that I started using in college years ago. It is by far the language I am most familiar with in terms of data-structure and algorithm programming."
+      },
+      {
+        "name":"Github",
+        "logo":"git_image.png",
+        "description":"I use Git for all of my projects so far. I have used Git for version control in small teams and have toyed around with contributing to Open Source Projects."
+      },
+      {
+        "name":"ReactJs",
+        "logo":"reactjs_logo.png",
+        "description":"I am fairly new to React and really did not like it at first. It has grown on me though and I will continue to use it going forward. I have built a ReactJS based my-info-website template (link below in portfolio) which I used as a starting point for this personal site"
+      },
+      {
+        "name":"MongoDB",
+        "logo":"mongodb_logo.jpg",
+        "description": "I have used many different database systems and am better educated and experienced with Relational Databases. However, for many applications, the ease of use of MongoDB better suits my needs and it is much more enjoyable to work with"
+      },
+      {
+        "name":"NodeJs",
+        "logo":"nodejs_logo.jpeg",
+        "description":"Node JS is my server-side scripting language of choice"
+      },
+      {
+        "name":"Spring Boot",
+        "logo":"spring_boot_logo.png",
+        "description":"Spring Boot is first and my best choice of java framework.I am using this framework from last two years to develop java based applications."
+      }
+    ]
+  }
+  ,
+  "resume":{
+    "skillmessage":"Here is my known Technology",
+    "education":[
+      {
+        "school":"College",
+        "degree":"Bachelors in Computer Engineering",
+        "graduated":"June 2017",
+        "description":"Completed Bachelor of Technology in 2017 from Netaji Subhash Engineering College in Computer Science & Engineering."
+      }
+    ],
+    "work":[
+      {
+        "company":"Qapitol Qa Services Pvt. Ltd.",
+        "title":"Member of technical Staff",
+        "years":"April 2019 - Present",
+        "description":"Working at Client(Flipkart Internet Private Limited). Developed a Zerocode Test Automation project."
+      },
+      {
+        "company":"Fernlink Technology",
+        "title":"Software Engineer",
+        "years":"January 2018 - April 2019",
+        "description":"javax.rs and springboot for developing java micro server.developed nodejs micro server.developed report generation from Jasper. developed front-end using angularjs and angular 5. worked on mongoDB, postgreSQL and influxDB."
+      },
+      {
+        "company":"e-Celtic Consulting Services Pvt. Ltd.",
+        "title":"Software Development Intern",
+        "years":"November 2016 - May 2017",
+        "description":"Contributed on Asp.net based Web project. created and consumed soap based web service. designed html web page."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"80%"
+      },
+      {
+        "name":"Nodejs",
+        "level":"70%"
+      },
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"Spring Boot",
+        "level":"70%"
+      },
+      {
+        "name":"Jasper Reports",
+        "level":"80%"
+      },
+      {
+        "name":"Git",
+        "level":"100%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"60%"
+      },
+      {
+        "name":"CSS",
+        "level":"50%"
+      },
+      {
+        "name":"HTML5",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text": "Anish has played a very crucial role in developing the cloud base IoT platform, was able to quickly grasp the project and help develop it further. He is a very quick learner and able to complete and deliver the project on time.",
+        "user":"Chiranth H D, a recommendation on linkedIn"
+      },
+      {
+        "text":"Anish had worked with me for around a year in Fernlink Technology as a software developer .He had a great impact on our team and the company. As soon as he joined our team , merely after few months he became the backbone of the team , from taking ownership of the tasks given to leading the team. He was pretty good when comes to java from exposing apis in backend to handling server deployments. Few challenging tasks I still remember he was given to add features like access control management , to making reports using Jasper, he took it as challenge and did it , he amazed me that day after. He had that spark that will help him grow quickly in his career and sky is the limit for him. Fortunately in future if I get a chance to work with him , I would love to. I am sure he will be a great asset to the next organization he will join",
+        "user":"Naveen Singh, a recommendation on linkedin"
+      }
+      ,
+      {
+        "text": "Anish is very passionate and has great vision for his work. His focus keeps everything moving smoothly, he makes sure all the deadlines are met, and makes sure that whatever project he is working on meets the highest standards.",
+        "user":"Vinay Kumar... a recommendation on linkedin"
+      }
+    ]
+  }
+}
