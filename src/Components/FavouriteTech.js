@@ -25,9 +25,9 @@ class FavouriteTech extends Component{
                             {/* <h5>{techMessage}</h5> */}
                             <p className="lead center">{techMessage}</p>
                         </div>
-                            <ul className="bgrid-quarters s-bgrid-thirds cf">
+                        <ul className="bgrid-quarters s-bgrid-thirds cf">
                             {favtech}
-                            </ul>
+                        </ul>
                         
                     </div>	   
                 </div>
