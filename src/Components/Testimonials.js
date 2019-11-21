@@ -5,11 +5,13 @@ class Testimonials extends Component {
 
     if(this.props.data){
       var testimonials = this.props.data.testimonials.map(function(testimonials){
-        return  <li key={testimonials.user}>
-            <blockquote>
-               <p>{testimonials.text}</p>
+        return  <li key={testimonials.user} onclick="location.href = 'https://www.linkedin.com/in/anishjha93/';">
+            <a href="https://www.linkedin.com/in/anishjha93/" target="blank">
+            <blockquote >
+               <p style={{'font-size': '14px','line-height': '24px'}}>{testimonials.text}</p>
                <cite>{testimonials.user}</cite>
             </blockquote>
+            </a>
          </li>
       })
     }
